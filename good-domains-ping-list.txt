@@ -133,3 +133,5 @@ drive2.ru
 drom.ru
 fonbet.ru
 apteka.ru
+shop.mts.ru
+mtsbank.ru
