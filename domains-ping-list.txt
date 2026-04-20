@@ -782,3 +782,75 @@ ziraatbank.ru
 zkb.ru
 банк-мскб.рф
 вакобанк.рф
+
+# --- Добавлено 2026-04-20 (рекомендации) ---
+# Государственные сервисы
+gosuslugi.ru
+esia.gosuslugi.ru
+pravo.gov.ru
+regulation.gov.ru
+
+# Общение и контент
+music.yandex.ru
+yandex.ru
+yastatic.net
+kinopoisk.ru
+kp.yandex.net
+vk.com
+vk.me
+userapi.com
+vkuser.net
+max.ru
+vkvideo.ru
+rustore.ru
+ok.ru
+odnoklassniki.ru
+rutube.ru
+wink.ru
+litres.ru
+oauth.yandex.ru
+
+# Покупки
+ozon.ru
+cdn.ozon.ru
+wildberries.ru
+wb.ru
+wbstatic.net
+avito.ru
+avito.st
+lavka.yandex.ru
+megamarket.ru
+lenta.com
+lenta.ru
+vkusvill.ru
+magnitmarket.ru
+detmir.ru
+dixy.ru
+vseinstrumenti.ru
+
+# Финансы и связь
+tbank.ru
+sberbank.ru
+online.sberbank.ru
+vtb.ru
+online.vtb.ru
+alfabank.ru
+pay.yandex.ru
+mts.ru
+login.mts.ru
+megafon.ru
+
+# Другое
+browser.yandex.ru
+2gis.ru
+rzd.ru
+pass.rzd.ru
+parking.mos.ru
+aviasales.ru
+hh.ru
+cian.ru
+
+# Важно (wildcard-домены: как есть не пингуются, оставлены как подсказка)
+# *.yastatic.net
+# *.vkuser.net
+# *.cloudfront.net
